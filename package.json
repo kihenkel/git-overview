@@ -1,0 +1,25 @@
+{
+  "name": "git-overview",
+  "version": "0.0.1",
+  "description": "A Node.js application to show an overview for multiple git repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kihenkel/git-overview.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Kilian Henkel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kihenkel/git-overview/issues"
+  },
+  "homepage": "https://github.com/kihenkel/git-overview#readme",
+  "dependencies": {
+    "simple-git": "^1.75.0"
+  }
+}
