@@ -25,9 +25,9 @@ module.exports = [{
 ];
 ```
 ## How to start
-Add a valid config as seen above. Now you can call the application with your provided method name, eg.:
-`node .\index.js`
+Add a valid config as seen above. Now you can call the application: `node .\index.js`
 
+### Output
 ```
 ╔══════╗
 ║ Apps ║
