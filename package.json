@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kihenkel/git-overview#readme",
   "dependencies": {
-    "simple-git": "^1.75.0"
+    "simple-git": "^1.75.0",
+    "table": "^4.0.2"
   }
 }
